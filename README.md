@@ -1,5 +1,5 @@
 # UCLA_GameLab_Project
-A Unity top-down action game made in the UCLA Game Lab institute within the span of a three-day programming course. 
+A Unity top-down action game made in the UCLA Game Lab institute within the span of a four-day programming course. 
 
 ## Features
 - Player-controlled top-down movement
